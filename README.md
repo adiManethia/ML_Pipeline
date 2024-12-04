@@ -59,6 +59,8 @@ Evaluates the trained model on test data, logging performance metrics like accur
 - Logs hyperparameters, metrics, and models.
 - Compares multiple experiment runs for better model optimization
 
+Here, is ML pipeline for this task from DagsHub ![ML Pipeline](mlp.png)
+
 
 ### For Adding Stages
 ```
